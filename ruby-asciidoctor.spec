@@ -6,12 +6,12 @@
 Summary:	Implementation of the AsciiDoc text processor and publishing toolchain
 Summary(pl.UTF-8):	Implementacja procesora tekstu i systemu publikacji AsciiDoc
 Name:		ruby-asciidoctor
-Version:	2.0.18
+Version:	2.0.20
 Release:	1
 License:	MIT
 #Source0Download: https://github.com/asciidoctor/asciidoctor/releases
 Source0:	https://github.com/asciidoctor/asciidoctor/archive/v%{version}/asciidoctor-%{version}.tar.gz
-# Source0-md5:	30a020f2db5f29a90bd2249bf3ad1f08
+# Source0-md5:	11f40bda9a2c07f6b632a0fc91b43a13
 Group:		Development/Languages
 URL:		https://asciidoctor.org/
 BuildRequires:	ruby >= 1:2.3
